@@ -1,0 +1,3 @@
+multiple BSSID
+offload ,   fullmac
+r
